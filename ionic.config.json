@@ -1,0 +1,10 @@
+{
+  "name": "CryptoWallet",
+  "app_id": "1bbfbbf6",
+  "type": "ionic-angular",
+  "proxies": [],
+  "integrations": {
+    "cordova": {
+    }
+  }
+}
